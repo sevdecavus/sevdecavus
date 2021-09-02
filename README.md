@@ -1,10 +1,10 @@
 ### Hi there 👋🏻
 
-I am a freelance Software Tester who is also passioned about web development and coding 👩🏻‍💻\
+_I am a freelance Software Tester who is also passioned about web development and coding_ 👩🏻‍💻\
 _My major is Math and currently studying my master in Computer Science_ 🆒
 
 
-🟣 **Languages:** Java SE (Certified), JavaScript, HTML, CSS\
+:woman_cartwheeling: **Languages:** Java SE (Certified), JavaScript, HTML, CSS\
 🔵 **Frameworks:** TestNG, Cucumber\
 🟡 **Tools:** Selenium Suite, Postman\
 🟢 **IDE:** Eclipse, IntelliJ\
