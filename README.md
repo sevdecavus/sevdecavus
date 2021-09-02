@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
-_I am a freelance Software Tester who is also passioned about web development and coding 👩🏻‍💻\
-_My major is Math and currently studying my master in Computer Science 🆒 
+_I am a freelance Software Tester who is also passioned about web development and coding 👩🏻‍💻\_
+_My major is Math and currently studying my master in Computer Science 🆒_
 
 
 🟣 **Languages:** Java SE (Certified), JavaScript, HTML, CSS\
