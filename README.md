@@ -5,13 +5,9 @@ My major is Math and currently studying my master in Computer Science 🆒
 
 
 🟣 Languages: Java SE (Certified), JavaScript, HTML, CSS
-
 🔵 Frameworks: TestNG, Cucumber
-
 🟡 Tools: Selenium Suite, Postman
-
 🟢 IDE: Eclipse, IntelliJ
-
 🔴 Databases: MySQL, SQL, JDBC
 
 
