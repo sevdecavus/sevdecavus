@@ -4,7 +4,7 @@ _I am a freelance Software Tester who is also passioned about web development an
 _My major is Math and currently studying my master in Computer Science_ 🆒
 
 
-:woman_cartwheeling: **Languages:** Java SE (Certified), JavaScript, HTML, CSS\
+:woman_cartwheeling: **Languages:** Java SE (Certified), JavaScript, HTML, CSS, Scratch\
 :lotus_position_woman: **Frameworks:** TestNG, Cucumber\
 :biking_woman: **Tools:** Selenium Suite, Postman\
 :weight_lifting_woman: **IDE:** Eclipse, IntelliJ\
