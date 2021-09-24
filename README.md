@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-_I am a freelance Software Tester who is also passioned about web development and coding_ 👩🏻‍💻\
+_I am a QA Engineer who is also passioned about web development and coding_ 👩🏻‍💻\
 _My major is Mathematics and currently studying my master in Computer Science_ 🆒
 
 
