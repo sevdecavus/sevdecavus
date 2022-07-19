@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
-_I am a QA Engineer who is also passioned about web development and coding_ 👩🏻‍💻\
-_My major is Mathematics and currently studying my master in Computer Science_ 🆒
+_I am a QA Analyst who is also passioned about web development and coding_ 👩🏻‍💻\
+
 
 
 :woman_cartwheeling: **Languages:** Java SE (Certified), JavaScript, HTML, CSS, Scratch\
