@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-_I am a QA Analyst who is also passioned about web development and coding_ 👩🏻‍💻\
+_I am a QA Analyst who is also passioned about web development and coding_ 👩🏻‍💻
 
 
 
